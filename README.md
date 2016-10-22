@@ -10,6 +10,7 @@ A curated list of resources dedicated to Computational Neuroscience. Also see [t
 
 
 ## Summer Courses & Bootcamps
+* See [Earthlink:perlewitz](http://home.earthlink.net/~perlewitz/education.html#instit)
 
 ## Conferences
 * [Cosyne](http://www.cosyne.org/)
